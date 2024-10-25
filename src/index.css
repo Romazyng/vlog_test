@@ -9,12 +9,13 @@
   padding: 20px;
   display: flex;
   align-items: center;
-  max-width: 600px;
+  max-width: 100%;
   margin: 0 auto;
   border-bottom: 1px solid #f2f2f2;
+  background-color: #f1356d;
 }
 .navbar h1 {
-  color: #f1356d;
+  color: #f2f2f2;
 }
 .navbar .links {
   margin-left: auto;
